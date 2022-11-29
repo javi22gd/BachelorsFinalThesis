@@ -5,4 +5,4 @@ July 2020
 
 By Javier Gomez
 
-Grade: A+ (10)
+Grade: **A+ (10)**
